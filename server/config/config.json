@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "SocialMediaDB",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5000
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "SocialMediaTestDB",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5000,
+    "logging": false
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

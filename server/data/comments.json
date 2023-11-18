@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "post_id": 1,
+    "user_id": 1,
+    "content": "Again science theory tree move nothing.",
+    "timestamp": "2010-05-31 01:42:34"
+  },
+  {
+    "id": 2,
+    "post_id": 2,
+    "user_id": 2,
+    "content": "Tend population table hope building push.",
+    "timestamp": "1993-04-04 20:20:08"
+  },
+  {
+    "id": 3,
+    "post_id": 1,
+    "user_id": 2,
+    "content": "Professor industry certain growth build pretty standard.",
+    "timestamp": "1982-07-20 09:51:46"
+  }
+]

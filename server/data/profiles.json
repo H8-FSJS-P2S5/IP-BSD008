@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "bio": "This is user1's bio",
+    "profile_picture": "https://img.freepik.com/free-vector/red-rooster-cock-side-view-abstract_1284-16627.jpg?w=1060&t=st=1700070730~exp=1700071330~hmac=e4260fcedad55cad749f38fa6fe2791743a24f7d14c7f1520225e5bba9c3a7ec"
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "bio": "This is user2's bio",
+    "profile_picture": "https://img.freepik.com/free-vector/red-rooster-cock-side-view-abstract_1284-16627.jpg?w=1060&t=st=1700070730~exp=1700071330~hmac=e4260fcedad55cad749f38fa6fe2791743a24f7d14c7f1520225e5bba9c3a7ec"
+  }
+]
